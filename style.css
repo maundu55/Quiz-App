@@ -59,3 +59,9 @@ body{
     cursor: pointer;
     display: none;
 }
+.correct{
+    background:rgb(9, 133, 9)
+}
+.incorrect{
+    background: rgb(192, 72, 72);
+}
