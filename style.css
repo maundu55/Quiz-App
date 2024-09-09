@@ -63,8 +63,8 @@ body{
     display: none;
 }
 .correct{
-    background:rgb(9, 133, 9)
+    background:rgb(113, 190, 113)
 }
 .incorrect{
-    background: rgb(192, 72, 72);
+    background: rgb(248, 128, 128);
 }
