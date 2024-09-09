@@ -12,7 +12,7 @@ const questions = [
         question: "Which is smallest country in the world?",
         answers: [
             { text: "Vatican City", correct: true },
-            { text: "Bhutan", correct: true},
+            { text: "Bhutan", correct: false},
             { text: "Nepal", correct: false },
             { text: "Shri Lanka", correct: false },
         ]
